@@ -1,1 +1,1 @@
-
+<a href="https://colab.research.google.com/github/sarahbeatriz0205/tecnicas-analise-dados-tads/blob/main/meu_notebook.ipynb"><img src="https://img.shields.io/badge/OPEN%20GOOGLE%20COLAB-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge"/></a>
